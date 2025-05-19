@@ -20,7 +20,7 @@ To prepare the data for meaningful insights, I performed the following cleaning 
 
     
 3. **Fixed Inconsistent Data Types**:
-      - Standardized each column to the correct format, for example making sure ratings were stored as numbers, salaries as monetary values, and names as text.
+      - Standardized each column to the correct format, e.g making sure ratings were stored as numbers, salaries as monetary values, and names as text.
 
     
 4. **Organized Player Positions**
